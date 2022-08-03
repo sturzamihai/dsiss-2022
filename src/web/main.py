@@ -2,4 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Histopathologic cancer detection")
+st.title("Pulmonary fibrosis volume prediction")
+
+# No time left for development :(

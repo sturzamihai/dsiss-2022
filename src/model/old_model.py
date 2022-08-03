@@ -1,3 +1,7 @@
+"""
+Model made for Histopathologic Cancer Detection Challenge
+"""
+
 import os
 import numpy as np
 import pandas as pd
